@@ -1,2 +1,3 @@
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+# --platform=linux/arm64 xiaoyaliu/alist
+docker pull nakabonne/ali
