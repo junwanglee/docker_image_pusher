@@ -1,5 +1,5 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
-ghcr.io/monlor/xiaoya-alist:latest
-ghcr.io/monlor/xiaoya-metadata:latest
-ghcr.io/monlor/xiaoya-embyserver:latest
+#ghcr.io/monlor/xiaoya-alist:latest
+r-base:4.2.1
+python:3.7.3
