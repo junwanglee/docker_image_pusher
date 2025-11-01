@@ -3,4 +3,4 @@
 #ghcr.io/monlor/xiaoya-alist:latest
 #bililive/recorder
 #portainer/portainer-ce:lts
-arm64v8/postgres:14-alpine3.22
+postgres:16
