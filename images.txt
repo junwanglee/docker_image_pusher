@@ -3,4 +3,5 @@
 #ghcr.io/monlor/xiaoya-alist:latest
 #bililive/recorder
 #portainer/portainer-ce:lts
-postgres:16
+#postgres:16
+python:3.10-slim
