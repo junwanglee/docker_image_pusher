@@ -4,4 +4,4 @@
 #bililive/recorder
 #portainer/portainer-ce:lts
 #postgres:16
-python:3.10-slim
+robinn/phpcacheadmin:latest
