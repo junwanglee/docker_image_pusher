@@ -4,4 +4,5 @@
 #bililive/recorder
 #portainer/portainer-ce:lts
 #postgres:16
-robinn/phpcacheadmin:latest
+#robinn/phpcacheadmin:latest
+redis:6.0.5
