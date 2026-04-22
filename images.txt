@@ -6,4 +6,4 @@
 #postgres:16
 #robinn/phpcacheadmin:latest
 #redis:6.0.5
-sonarqube:2026.2.0-community
+sonarqube:community
