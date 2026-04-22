@@ -8,4 +8,5 @@
 #redis:6.0.5
 #sonarqube:community
 #sonarqube:9.9-community
-sonarqube:9.9.8-community
+#sonarqube:9.9.8-community
+sonarqube:lts-community
