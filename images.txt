@@ -11,4 +11,5 @@
 #sonarqube:9.9.8-community
 #sonarqube:lts-community
 #python:3.12.6
---platform=linux/arm64 python:3.12.6
+#--platform=linux/arm64 python:3.12.6
+python:3.12.6-slim
