@@ -12,5 +12,6 @@
 #sonarqube:lts-community
 #python:3.12.6
 #--platform=linux/arm64 python:3.12.6
---platform=linux/arm64 python:3.12.6-slim
---platform=linux/amd64 python:3.12.6-slim
+#--platform=linux/arm64 python:3.12.6-slim
+#--platform=linux/amd64 python:3.12.6-slim
+--platform=linux/amd64 livekit/livekit-server:latest
