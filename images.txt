@@ -14,4 +14,5 @@
 #--platform=linux/arm64 python:3.12.6
 #--platform=linux/arm64 python:3.12.6-slim
 #--platform=linux/amd64 python:3.12.6-slim
---platform=linux/amd64 livekit/livekit-server:latest
+#--platform=linux/amd64 livekit/livekit-server:latest
+--platform=linux/amd64 redis:8.8.3-alpine3.23
